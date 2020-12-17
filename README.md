@@ -2,7 +2,7 @@
 custom snack bar
 
 
-# Install animatable library from 'react-native-animatable' 
+# Install animatable library from 'react-native-animatable' and call the component in screen
 `<Snackbar />`
 
 # pass props in text 
