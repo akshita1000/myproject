@@ -57,13 +57,13 @@ const Snackbar = (props) => {
                            }}
                            animation="bounceOutDown"
                            ref={handleViewRef}>
-                           <Text style={{ fontSize: 14, fontFamily: 'serif', marginLeft: 10 }}>
+                           <Text style={{ fontSize: 14, fontFamily: 'serif',fontWeight:'600', marginLeft: 10 }}>
                                {props.text}
                            </Text>
  
                            <TouchableOpacity onPress={onAnimate}>
-                               <Text style={{ marginRight: 10, fontWeight: 'bold' }}>
-                                   {'Undo'}
+                               <Text style={{ marginRight: 10, fontWeight: 'bold',color:'green' }}>
+                                   {'HIDE'}
                                </Text>
                            </TouchableOpacity>
  
@@ -85,6 +85,13 @@ const styles = StyleSheet.create({
 });
 export default Snackbar;
  
+ 
+ 
+ 
+ 
+ 
+ 
+
  
  
  
