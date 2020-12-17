@@ -2,15 +2,15 @@
 custom snack bar
 
 
-# First you have to call the component in screen
+# Install animatable library from 'react-native-animatable' 
 `<Snackbar />`
 
-# you to pass the props in text 
+# pass props in text 
 `<Snackbar 
 text="..."
 />`
 
-# You to pass the props for animation for showing snackbar
+# pass props in animate (boolean value) for showing snackbar
 `<Snackbar
 animate={true}
 />`
