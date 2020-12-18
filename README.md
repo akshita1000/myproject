@@ -13,11 +13,7 @@ yarn add react-native-animatable
   
 # Usage
 `
-import * as +
-Animatable
-+ from '-
-react-native-animatable
--';
+import * as Animatable from '@@react-native-animatable@@';
 `
 
 # Call custom snackbar
