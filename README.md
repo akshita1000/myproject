@@ -14,14 +14,14 @@ import * as Animatable from 'react-native-animatable';
 
 # Call custom snackbar
 
-```const App = () => {
+`const App = () => {
 return(
    <Snackbar  
       text=""
       animate={true}
    />
 )
-}```
+}`
 
 
 # Snackbar.js
