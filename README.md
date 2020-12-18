@@ -5,9 +5,11 @@ custom snack bar
 # Install animatable library from 'react-native-animatable' 
 
 # Installation
-``npm install react-native-animatable --save
+``` 
+npm install react-native-animatable --save
           OR
-yarn add react-native-animatable``
+yarn add react-native-animatable
+```
   
 # Usage
 import * as Animatable from 'react-native-animatable';
