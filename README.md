@@ -13,6 +13,7 @@ yarn add react-native-animatable
 import * as Animatable from 'react-native-animatable';
 
 # Call custom snackbar
+
 ```const App = () => {
 return(
    <Snackbar  
@@ -22,7 +23,8 @@ return(
 )
 }```
 
-## Snackbar.js
+
+# Snackbar.js
 
 
 ```import React from 'react';
