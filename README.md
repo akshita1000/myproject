@@ -25,7 +25,7 @@ return(
 ## Snackbar.js
 
 
-import React from 'react';
+```import React from 'react';
 import { View, TouchableOpacity, StyleSheet } from 'react-native';
 import { Text } from 'react-native';
 import * as Animatable from 'react-native-animatable';
@@ -96,5 +96,5 @@ const styles = StyleSheet.create({
     },
 
 });
-export default Snackbar;
+export default Snackbar;```
 
