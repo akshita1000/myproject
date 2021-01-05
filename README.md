@@ -2,8 +2,6 @@
 custom snack bar
 
 
-# Install animatable library from 'react-native-animatable' 
-
 # Installation
 In your react-native project, run 
 
